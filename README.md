@@ -33,13 +33,11 @@ Scope of the system
     Cancel a policy
     Admin can cancel the policy for the user.
 
-User Characteristics
-The product should be user friendly; hence the user should not need any software and hardware knowledge. The user may be new to Mortage Loan Software products in general.
-Impact of the System
-This is a new product 
+User Characteristics:
+  The product should be user friendly; hence the user should not need any software and hardware knowledge. The user may be new to Mortage Loan Software products in general.
 
-Programming language: Java
+Programming language: Java.
 Technologies: Servlets and JSP.
-Database: MySQL
-Front-end: Bootstrap
-Testing: JUnit and Selenium
+Database: MySQL.
+Front-end: Bootstrap.
+Testing: JUnit and Selenium.
